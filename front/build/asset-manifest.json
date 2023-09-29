@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff7030ed.css",
+    "main.js": "/static/js/main.6483ccf2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/spongebob2.jpg": "/static/media/spongebob2.a650610876508d589184.jpg",
+    "static/media/iconnew.png": "/static/media/iconnew.527549120775574d11ec.png",
+    "static/media/Squidward.jpg": "/static/media/Squidward.5472cf2a5f7e1c65a08c.jpg",
+    "index.html": "/index.html",
+    "main.ff7030ed.css.map": "/static/css/main.ff7030ed.css.map",
+    "main.6483ccf2.js.map": "/static/js/main.6483ccf2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7030ed.css",
+    "static/js/main.6483ccf2.js"
+  ]
+}
